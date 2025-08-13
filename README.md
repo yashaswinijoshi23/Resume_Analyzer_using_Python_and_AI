@@ -22,7 +22,12 @@ Built with **Python, Streamlit, Flask, and Google Gemini API**.
 
 ---
 
+
 <details>
 <summary>📦 Installation</summary>
 
-
+```bash
+git clone https://github.com/yashaswinijoshi23/Resume_Analyzer_using_Python_and_AI.git
+cd Resume_Analyzer_using_Python_and_AI
+pip install -r requirements.txt
+streamlit run app.py
