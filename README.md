@@ -8,11 +8,6 @@ Built with **Python, Streamlit, Flask, and Google Gemini API**.
 
 ---
 
-## 📸 Demo
-![App Demo](demo.gif)  
-*Above: Uploading a resume and getting AI suggestions in real-time.*
-
----
 
 ## ✨ Features
 - 📄 **PDF Parsing** – Reads and cleans resume content
